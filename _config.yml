@@ -1,0 +1,28 @@
+name: Imtiaz Willems
+favicon: null
+layout_spectrum: 0.48307670187205076
+typography_spectrum: 0.25865219510160387
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4778157137334347
+  lightness: 0.16224260977469385
+  saturation: 0.5884298242162913
+  rhythmicContrast: 0.32945985440164804
+purpose: []
