@@ -1,7 +1,7 @@
 name: Imtiaz Willems
 favicon: null
-layout_spectrum: 0.48307670187205076
-typography_spectrum: 0.25865219510160387
+layout_spectrum: 1
+typography_spectrum: 0.333
 title: ELECTRONIC MUSIC
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.4778157137334347
-  lightness: 0.16224260977469385
-  saturation: 0.5884298242162913
-  rhythmicContrast: 0.32945985440164804
+    - '#f1efd7'
+    - '#252525'
+    - '#acbcb5'
+    - '#67675d'
+    - '#86928d'
+  brandStrength: 0.5
+  lightness: 0.875
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
