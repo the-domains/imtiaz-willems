@@ -1,7 +1,7 @@
-name: Imtiaz Willems
+name: Adam Phase
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.30264
+layout_spectrum: 1
+typography_spectrum: 0.8696
 title: ADAM PHASE
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#7e9097'
     - '#0f2943'
   brandStrength: 0.3125
-  lightness: 0.75
-  saturation: 0.875
+  lightness: 0.5
+  saturation: 0.375
   rhythmicContrast: 0.75
 purpose: []
